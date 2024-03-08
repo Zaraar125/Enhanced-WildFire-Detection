@@ -1,4 +1,4 @@
-****This repository contains the following items :****
+**This repository contains the following items :**
 
   **i. A JupyterNotebook that conatains the entire code**
   
