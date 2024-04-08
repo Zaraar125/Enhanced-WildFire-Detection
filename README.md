@@ -14,3 +14,15 @@ My approach combines the power of advanced image features such as LBP, HOG, and 
 - Trains a simple Neural Network model for classification.
 - Aims to reduce computational costs compared to pure CNN approaches.
 - Enhances classification accuracy for wild fire detection in images.
+
+## Installation
+1. Clone the repository:
+
+2. Install the required dependencies: pip install -r requirements.txt
+
+## Usage
+1. Prepare your dataset of wild fire images.
+2. Run the feature extraction script to extract LBP, HOG, and Histogram features from the images.
+3. Train the Neural Network model using the extracted features.
+4. Evaluate the model's performance and adjust hyperparameters as needed.
+5. Use the trained model for wild fire classification and detection tasks.
