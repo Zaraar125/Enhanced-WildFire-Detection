@@ -17,8 +17,10 @@ My approach combines the power of advanced image features such as LBP, HOG, and 
 
 ## Installation
 1. Clone the repository: https://github.com/Zaraar125/Enhanced-WildFire-Image-Classification.git
-2. Dataset has been collected from the following link : https://towardsdatascience.com/early-fire-detection-system-using-deep-learning-and-opencv-6cb60260d54a
-
+2. Dataset has been collected from the following link's :
+3. https://www.kaggle.com/datasets/atulyakumar98/test-dataset
+4. https://www.kaggle.com/datasets/phylake1337/fire-dataset
+5. https://github.com/DeepQuestAI/Fire-Smoke-Dataset?tab=readme-ov-file
 ## Usage
 1. Download dataset of wild fire images .
 2. The feature extraction of LBP, HOG, and Histogram features from the images is being executed in batches in the ipnyb file.
