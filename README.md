@@ -16,7 +16,7 @@ My approach combines the power of advanced image features such as LBP, HOG, and 
 - Enhances classification accuracy for wild fire detection in images.
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository: https://github.com/Zaraar125/Enhanced-WildFire-Image-Classification.git
 
 2. Install the required dependencies: pip install -r requirements.txt
 
