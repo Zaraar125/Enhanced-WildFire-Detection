@@ -20,8 +20,8 @@ My approach combines the power of advanced image features such as LBP, HOG, and 
 2. Dataset has been collected from the following link : https://towardsdatascience.com/early-fire-detection-system-using-deep-learning-and-opencv-6cb60260d54a
 
 ## Usage
-1. Prepare your dataset of wild fire images .
-2. Run the feature extraction script to extract LBP, HOG, and Histogram features from the images.
+1. Download dataset of wild fire images .
+2. The feature extraction of LBP, HOG, and Histogram features from the images is being executed in batches in the ipnyb file.
 3. Train the Neural Network model using the extracted features.
 4. Evaluate the model's performance and adjust hyperparameters as needed.
-5. Use the trained model for wild fire classification and detection tasks.
+5. Use the trained model for wild fire classification tasks.
