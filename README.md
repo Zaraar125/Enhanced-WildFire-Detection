@@ -17,11 +17,10 @@ My approach combines the power of advanced image features such as LBP, HOG, and 
 
 ## Installation
 1. Clone the repository: https://github.com/Zaraar125/Enhanced-WildFire-Image-Classification.git
-
-2. Install the required dependencies: pip install -r requirements.txt
+2. The dataset is already uploaded . It has been collected from the following link : https://towardsdatascience.com/early-fire-detection-system-using-deep-learning-and-opencv-6cb60260d54a
 
 ## Usage
-1. Prepare your dataset of wild fire images.
+1. Prepare your dataset of wild fire images .
 2. Run the feature extraction script to extract LBP, HOG, and Histogram features from the images.
 3. Train the Neural Network model using the extracted features.
 4. Evaluate the model's performance and adjust hyperparameters as needed.
