@@ -17,8 +17,7 @@ My approach combines the power of advanced image features such as LBP, HOG, and 
 
 ## Installation
 1. Clone the repository: https://github.com/Zaraar125/Enhanced-WildFire-Image-Classification.git
-2. The dataset is already uploaded . It has been collected from the following link :
-   i. https://towardsdatascience.com/early-fire-detection-system-using-deep-learning-and-opencv-6cb60260d54a
+2. Link for dataset : https://towardsdatascience.com/early-fire-detection-system-using-deep-learning-and-opencv-6cb60260d54a
 
 ## Usage
 1. Prepare your dataset of wild fire images .
